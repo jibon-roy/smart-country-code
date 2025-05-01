@@ -1,3 +1,7 @@
+export default async function SmartCountryCode = () {
+  
+};
+
 export const currency = [
   "AFN",
   "ALL",
