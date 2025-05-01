@@ -1,5 +1,3 @@
-console.log("hi");
-
 export const currency = [
   "AFN",
   "ALL",
